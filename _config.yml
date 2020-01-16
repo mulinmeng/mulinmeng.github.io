@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Wenqiang Zhang / Homepage"
 title_separator          : "-"
 name                     : &name "Wenqiang Zhang"
-description              : &description "A thousand miles begin with each single step."
+description              : &description "Student at HUST"
 url                      : https://mulinmeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mulinmneg/mulinmneg.github.io"
+repository               : "mulinmeng/mulinmeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Wenqiang Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Student at Huazhong University of Science and Technology."
+  location         : "Wuhan, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #pubmed           : ""
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
